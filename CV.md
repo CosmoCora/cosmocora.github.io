@@ -20,7 +20,6 @@ For current roles see the [Bielefeld University profile page](https://ekvv.uni-b
 *Deputy Group leader for [Cosmology & Quantum Gravity](https://blogs.ncl.ac.uk/cosmology)*  
 *Group member of [Observational Astronomy](http://blogs.ncl.ac.uk/astro-obs)*
 
-![Newcastle University logo](https://mediaprocessor.websimages.com/width/205/crop/0,0,205x67/corauhlemann.webs.com/Newcastle_University_logo.png)
 
 ### Oct 2017 – Dec 2019 — University of Cambridge
 
@@ -29,14 +28,11 @@ Centre for Theoretical Cosmology
 *Research Associate*  
 *Relativity and Gravitation Group of Paul Shellard*
 
-![Centre for Theoretical Cosmology](https://mediaprocessor.websimages.com/width/95/crop/0,0,95x53/corauhlemann.webs.com/ctc_header.png)
 
 ### Oct 2017 – Dec 2019 — University of Cambridge
 
 **Fitzwilliam College**  
 *Junior Research Fellow*
-
-![Fitzwilliam College logo](https://mediaprocessor.websimages.com/width/269/crop/0,0,269x44/corauhlemann.webs.com/Fitzwilliam_Logo.png)
 
 ### Oct 2015 – Sept 2017 — Universiteit Utrecht
 
@@ -44,14 +40,11 @@ Centre for Theoretical Cosmology
 *Research Associate*  
 Cosmology *Group of Enrico Pajer*
 
-![Universiteit Utrecht](https://mediaprocessor.websimages.com/width/190/crop/0,25,190x52/corauhlemann.webs.com/references-20-5407019583f5d.jpg)
-
 ### Aug 2015 – Sept 2015 — Institute d’Astrophysique de Paris
 
 *Visiting Scientist*  
 *Working with Francis Bernardeau & Christophe Pichon*
 
-![Institute d’Astrophysique de Paris](https://www.staff.ncl.ac.uk/corauhlemann/files/2020/12/unnamed.png)
 
 ### Nov 2012 – Sept 2015 — Arnold Sommerfeld Center for Theoretical Physics, Ludwigs-Maximilians-Universität Munich
 
@@ -59,7 +52,6 @@ Excellence Cluster Universe
 *Doctoral Position*  
 Cosmology *Group of Stefan Hofmann*
 
-![LMU / Universe](https://www.staff.ncl.ac.uk/corauhlemann/files/2020/12/univers_web-2.png)
 
 ## Education
 
@@ -116,7 +108,3 @@ Supervisor: Prof. Dr. Heinz Siedentop
 ### Bielefeld University
 
 - [cora.uhlemann@uni-bielefeld.de](mailto:cora.uhlemann@uni-bielefeld.de)
-
-### Newcastle University
-
-- [cora.uhlemann@newcastle.ac.uk](mailto:cora.uhlemann@newcastle.ac.uk)
