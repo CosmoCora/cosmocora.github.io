@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CV.md
+  - edi.md
+  - index.md
+  - publications.md
+  - talks.md
+  - teaching.md
