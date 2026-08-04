@@ -7,7 +7,7 @@ Professor in Cosmology at Bielefeld University, Visiting Professor at Newcastle 
 ## Navigation
 
 - [Home](https://www.staff.ncl.ac.uk/corauhlemann/)
-- [CV](https://www.staff.ncl.ac.uk/corauhlemann/curriculum-vitae/)
+- [CV](cv.md)
 - [EDI](https://www.staff.ncl.ac.uk/corauhlemann/edi/)
 - [JOBS](https://www.staff.ncl.ac.uk/corauhlemann/jobs/)
 - [OUTREACH](https://www.staff.ncl.ac.uk/corauhlemann/outreach/)
