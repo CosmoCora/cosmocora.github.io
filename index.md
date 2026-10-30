@@ -27,18 +27,18 @@ I am a Visiting Professor at Newcastle University. Previously, I was a Reader in
 - Nils Mareczek (Bachelor student, since March 2026)
 - Aoibhinn Gallagher (independent Humboldt Postdoctoral Fellow, since Feb 2026)
 - David Gebauer (ERC-funded PhD student, since Sept 2025)
-- Jannis Schrepel (Bachelor student, since Sept 2025)
 - Robin Blotevogel (Master student, since Sept 2025)
 - [Simon May](https://wwwhomes.uni-bielefeld.de/~smay3/) (independent ERC-preparative Postdoctoral Fellow at Bielefeld University, from Sept 2025)
 - Sophie Ashworth (Master student, since April 2025)
 - Bernhard Vos Gines (ERC-funded postdoc, since January 2025)
 - Ashim Sen Gupta (ERC-funded postdoc, since November 2024)
-- Carolyn Mill (PhD student in the STFC CDT NUdata at Newcastle University, since September 2023, in Bielefeld April–December 2025)
+- Carolyn Mill (PhD student in the STFC CDT NUdata at Newcastle University, since September 2023, in Bielefeld April–Dec 2025)
 - Lina Castiblanco Tolosa (STFC + ERC-funded PostDoc, since October 2022)
-- [Beth Gould](https://bethgould.net) (PhD student at Newcastle University, since September 2022, in Bielefeld April–December 2025, from April 2026)
+- [Beth Gould](https://bethgould.net) (PhD student at Newcastle University, Sept 2022-Nov 2026, in Bielefeld April–Dec 2025, from April-Nov 2026)
 
 ### Previous members
 
+- Jannis Schrepel (Bachelor student, Sept 2025 - Sept 2026)
 - Sofia del Pilar Samario Nava (Visiting PhD student from Mexico, July–November 2025)
 - Hannes Steinmeier (Bachelor student, 2025)
 - Elias Krolik (Bachelor student, 2025)
@@ -46,7 +46,7 @@ I am a Visiting Professor at Newcastle University. Previously, I was a Reader in
 
 ## Group Picture Winter Semester 25/26
 
-![Group Picture Winter Semester 25/26](https://www.staff.ncl.ac.uk/corauhlemann/files/2025/11/DSC05871_crop.jpg)
+![Group Picture Winter Semester 25/26](images/DSC05871_crop.jpg)
 
 - Back row: Simon May, Elias Krolik, Jannis Schrepel, Hannes Steinmeier
 - Middle row: Beth Gould, Carolyn Mill, Bernhard Vos Gines, Sophie Ashwort, Robin Blotvogel
@@ -54,7 +54,7 @@ I am a Visiting Professor at Newcastle University. Previously, I was a Reader in
 
 ## Picture from our Kick-Off Workshop on May 12, 2025
 
-![Kick-Off Workshop on May 12, 2025](https://www.staff.ncl.ac.uk/corauhlemann/files/2025/05/IMG_6725.jpeg)
+![Kick-Off Workshop on May 12, 2025](images/IMG_6725.jpeg)
 
 - Back from left to right: Sophie, Ashim, Carolyn, Helena Ernst (workshop facilitator)
 - Front from left to right: Bernhard, Beth, Cora, Lina
@@ -93,7 +93,3 @@ I am very excited to have been part of the [‘Universe Unravelled’ series](ht
 ### Bielefeld University
 
 - [cora.uhlemann@uni-bielefeld.de](mailto:cora.uhlemann@uni-bielefeld.de)
-
-### Newcastle University
-
-- [cora.uhlemann@newcastle.ac.uk](mailto:cora.uhlemann@newcastle.ac.uk)
