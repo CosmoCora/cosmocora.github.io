@@ -7,15 +7,15 @@ A list of talks given at conferences, seminars and colloquia.
 
 [ESI Workshop “Putting the Cosmic Large-scale Structure on the Map: Theory Meets Numerics”](https://www.esi.ac.at/events/e576) , September 2025, Vienna, Austria
 
-DESY Theory Workshop: Whispers from the Dark Universe, Hamburg, September 2024
+[DESY Theory Workshop: Whispers from the Dark Universe](https://th-workshop2024.desy.de/), Hamburg, September 2024
 
-The Non-Gaussian Universe, Centre for Theoretical Cosmology, Cambridge, Sept 2019
+[The Non-Gaussian Universe](https://www.ctc.cam.ac.uk/activities/ng/), Centre for Theoretical Cosmology, Cambridge, Sept 2019
 
-Numerics for cosmology – the Schrödinger method, WPI Vienna, May 2018
+[Numerics for cosmology – the Schrödinger method](https://www.wpi.ac.at/event_view.php?id_activity=259), WPI Vienna, May 2018
 
 ## ORGANISATION OF RESEARCH COMMUNITY MEETINGS
 
-Co-organiser [Cosmology Day at Bielefeld University](https://indico.physik.uni-bielefeld.de/event/302/overview), May 2024, April 2025, May 2026, April 2027
+Co-organiser Cosmology Day at Bielefeld University, [May 2024](https://indico.physik.uni-bielefeld.de/event/109/), [April 2025](https://indico.physik.uni-bielefeld.de/event/219/), [May 2026]](https://indico.physik.uni-bielefeld.de/event/302/overview), April 2027
 
 Co-Organiser Euclid Consortium Meeting Splinters ‘Higher-order statistics for Galaxy Clustering & Weak Lensing’, Copenhagen, June 2023
 
