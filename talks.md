@@ -3,9 +3,9 @@ A list of talks given at conferences, seminars and colloquia.
 
 ## ORGANISATIONS OF WORKSHOPS
 
-ESI Workshop “Putting the Cosmic Large-scale Structure on the Map: Theory Meets Numerics” , September 2025, Vienna, Austria
+[New Strategies for Extracting Cosmology from Galaxy Surveys](https://www.sexten-cfa.eu/event/nse27/), Sexten, July 2023/24/25/27
 
-New Strategies for Extracting Cosmology from Galaxy Surveys, Sexten, July 2023/24/25
+[ESI Workshop “Putting the Cosmic Large-scale Structure on the Map: Theory Meets Numerics”](https://www.esi.ac.at/events/e576) , September 2025, Vienna, Austria
 
 DESY Theory Workshop: Whispers from the Dark Universe, Hamburg, September 2024
 
@@ -15,7 +15,7 @@ Numerics for cosmology – the Schrödinger method, WPI Vienna, May 2018
 
 ## ORGANISATION OF RESEARCH COMMUNITY MEETINGS
 
-Co-organiser Cosmology Day at Bielefeld University, May 2024, April 2025, May 2026
+Co-organiser [Cosmology Day at Bielefeld University](https://indico.physik.uni-bielefeld.de/event/302/overview), May 2024, April 2025, May 2026, April 2027
 
 Co-Organiser Euclid Consortium Meeting Splinters ‘Higher-order statistics for Galaxy Clustering & Weak Lensing’, Copenhagen, June 2023
 
