@@ -19,7 +19,7 @@ Co-organiser Cosmology Day at Bielefeld University, [May 2024](https://indico.ph
 
 Co-Organiser Euclid Consortium Meeting Splinters ‘Higher-order statistics for Galaxy Clustering & Weak Lensing’, Copenhagen, June 2023
 
-Organiser of UK Cosmology Meeting at Newcastle University, May 2022
+Organiser of [UK Cosmology Meeting at Newcastle University](https://blogs.ncl.ac.uk/cosmology/uk-cosmo-2022/), May 2022
 
 ## CONFERENCE & WORKSHOP TALKS
 
