@@ -44,10 +44,20 @@ I am a Visiting Professor at Newcastle University. Previously, I was a Reader in
 - Elias Krolik (Bachelor student, 2025)
 - [Alex Gough](https://alexandergough.com/) (PhD student at Newcastle University, September 2020–August 2024)
 
+## Group Picture Winter Semester 26/27
+
+![Group Picture Winter Semester 26/27](images/DSC08141_crop.jpg)
+from left to right
+-Last row: Lennart Mielke
+-Second last row: Robin Blotevogel, Ashim Sen Gupta, Szymon Juszczak 
+-Middle row: Beth Gould
+-second front row: Aoibhinn Gallagher, Nils Mareczek, Cora Uhlemann, Bernhard Vos Gines, William Erba
+-front row: Sophie Ashworth, Simon May, Lina Castiblanco
+
 ## Group Picture Winter Semester 25/26
 
 ![Group Picture Winter Semester 25/26](images/DSC05871_crop.jpg)
-
+from left to right
 - Back row: Simon May, Elias Krolik, Jannis Schrepel, Hannes Steinmeier
 - Middle row: Beth Gould, Carolyn Mill, Bernhard Vos Gines, Sophie Ashwort, Robin Blotvogel
 - Front row: Lina Castiblanco Tolosa, Sofia del Pilar Samario Nava, Cora Uhlemann, Ashim Sen Gupta
