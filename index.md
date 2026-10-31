@@ -2,8 +2,6 @@
 
 Professor in Cosmology at Bielefeld University, Visiting Professor at Newcastle University
 
-![Cora Uhlemann](images/CoraUhleman_crop_quad.jpg)
-
 <img src="images/CoraUhleman_crop_quad.jpg" alt="Alt text" width="300">
 
 ## Navigation
