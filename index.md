@@ -2,7 +2,9 @@
 
 Professor in Cosmology at Bielefeld University, Visiting Professor at Newcastle University
 
-![Cora Uhlemann](https://www.staff.ncl.ac.uk/corauhlemann/files/2022/09/Newcastle_CoraUhleman_crop_quad.jpg)
+![Cora Uhlemann](images/Newcastle_CoraUhleman_crop_quad.jpg)
+
+<img src="images/Newcastle_CoraUhleman_crop_quad.jpg" alt="Alt text" width="300">
 
 ## Navigation
 
