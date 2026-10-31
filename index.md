@@ -30,7 +30,7 @@ I am a Visiting Professor at Newcastle University. Previously, I was a Reader in
 - Amon Boigs (Master student, since July 2026)
 - Nils Mareczek (Bachelor student, since March 2026)
 - Aoibhinn Gallagher (independent Humboldt Postdoctoral Fellow, since Feb 2026)
-- David Gebauer (ERC-funded PhD student, since Sept 2025)
+- [David Gebauer](https://gebauer.ai/) (ERC-funded PhD student, since Sept 2025)
 - Robin Blotevogel (Master student, since Sept 2025)
 - [Simon May](https://wwwhomes.uni-bielefeld.de/~smay3/) (independent ERC-preparative Postdoctoral Fellow at Bielefeld University, from Sept 2025)
 - Sophie Ashworth (Master student, since April 2025)
