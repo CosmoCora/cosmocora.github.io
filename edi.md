@@ -60,7 +60,3 @@ There are a wide range of physical and mental factors affecting access to and in
 ### Bielefeld University
 
 - [cora.uhlemann@uni-bielefeld.de](mailto:cora.uhlemann@uni-bielefeld.de)
-
-### Newcastle University
-
-- [cora.uhlemann@newcastle.ac.uk](mailto:cora.uhlemann@newcastle.ac.uk)
