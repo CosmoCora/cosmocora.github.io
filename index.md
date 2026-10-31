@@ -24,6 +24,10 @@ I am a Visiting Professor at Newcastle University. Previously, I was a Reader in
 
 ## My large-scale structure research group
 
+- Lennart Mielke (Bachelor student, since October 2026)
+- William Erba (CRC TR211-funded PhD student, since October 2026)
+- Szymon Juszczak (PhD student, since October 2026)
+- Amon Boigs (Master student, since July 2026)
 - Nils Mareczek (Bachelor student, since March 2026)
 - Aoibhinn Gallagher (independent Humboldt Postdoctoral Fellow, since Feb 2026)
 - David Gebauer (ERC-funded PhD student, since Sept 2025)
@@ -46,7 +50,7 @@ I am a Visiting Professor at Newcastle University. Previously, I was a Reader in
 
 ## Group Picture Winter Semester 26/27
 
-![Group Picture Winter Semester 26/27](images/DSC08141_crop.jpg)
+![Group Picture Winter Semester 26/27](images/DSC08141_crop.JPG)
 from left to right
 -Last row: Lennart Mielke
 -Second last row: Robin Blotevogel, Ashim Sen Gupta, Szymon Juszczak 
