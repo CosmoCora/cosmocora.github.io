@@ -71,7 +71,7 @@ I am very excited to have been part of the [‘Universe Unravelled’ series](ht
 
 ## Interviews and Press Releases
 
-- [Bielefeld University Article on Dual Career](https://aktuell.uni-bielefeld.de/uniintern/dual-career-ein-doppeltes-willkommen/)
+- [Bielefeld University Article on Dual Career (uni-internal)](https://aktuell.uni-bielefeld.de/uniintern/dual-career-ein-doppeltes-willkommen/)
 - [Springer Nature Career Guide Germany interview contribution](https://www.nature.com/articles/d41586-025-03778-y)
 - [Bielefeld University Video-Interview “Die Forschungslücke” (research gap series, in German)](https://www.linkedin.com/posts/bielefeld-university_wir-schmei%C3%9Fen-daten-weg-bedauert-die-kosmologin-activity-7397256054486753280-Vlwq?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZh3cgB85Ux5HQCGqIZBaVrI0YVYoC-z5c)
 - [Perimeter Institute Article about my research and my group](https://perimeterinstitute.ca/news/eyeglasses-space-telescope)
