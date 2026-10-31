@@ -55,7 +55,3 @@ You can watch a [recording of an outreach talk I gave at the Institute of Astron
 ### Bielefeld University
 
 - [cora.uhlemann@uni-bielefeld.de](mailto:cora.uhlemann@uni-bielefeld.de)
-
-### Newcastle University
-
-- [cora.uhlemann@newcastle.ac.uk](mailto:cora.uhlemann@newcastle.ac.uk)
