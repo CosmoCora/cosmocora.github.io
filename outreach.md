@@ -4,6 +4,7 @@
 
 ### Science & Euclid mission
 
+- [Bielefeld Campusradio Hertz Wissenschaftssendung "Schwarze Löcher"](HertzInterview_BmO_Schwarze_Loecher.mp3) durchgeführt und editiert von Leanora Widmer (in German)
 - Bielefeld University articles on [Billions of galaxies beyond the average](https://aktuell.uni-bielefeld.de/2024/03/19/billions-of-galaxies-beyond-the-average-mediocrity/?lang=en) and [Euclid first science (in German)](https://aktuell.uni-bielefeld.de/2024/05/23/mit-neuen-bildern-die-mysterien-des-universums-erforschen/)
 - Newcastle University press release: [https://www.ncl.ac.uk/press/articles/latest/2023/06/euclidmission/](https://www.ncl.ac.uk/press/articles/latest/2023/06/euclidmission/)
 - Euclid video pre-launch feelings: [https://www.youtube.com/watch?v=qvyMzcYFb9A](https://www.youtube.com/watch?v=qvyMzcYFb9A)
