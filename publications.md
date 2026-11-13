@@ -7,7 +7,7 @@ You can find my publication history on different platforms:
 - [ORCID](https://orcid.org/0000-0001-7831-1579)
 - [arXiv](https://arxiv.org/a/uhlemann_c_2.html)
 
-**Total:** 46 peer-reviewed research articles, 14 of which first & corresponding author, 1 single author, <u>13 led by PhD students and postdocs</u>, all independent of PhD supervisor, 6 science white papers for Astro2020 Decadal Survey, EUCAPT, CosmoVerse, 5 chapters for *Advancing Astrophysics with the SKA II*.
+**Total:** 47 peer-reviewed research articles, 14 of which first & corresponding author, 1 single author, <u>14 led by PhD students and postdocs</u>, all independent of PhD supervisor, 6 science white papers for Astro2020 Decadal Survey, EUCAPT, CosmoVerse, 6 chapters for *Advancing Astrophysics with the SKA II*.
 
 *Underlined names below indicate supervised PhD students and postdocs.*
 
@@ -15,6 +15,10 @@ You can find my publication history on different platforms:
 - **November 2026** — **SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear **  
 David Gebauer, Anik Halder, Zhengyangguang Gong, Cora Uhlemann
 [arXiv:2611.05367](https://arxiv.org/abs/2611.05367)
+
+- **July 2026** — **Cosmology from Nx2pt Analyses of SKAO Wide-Area Surveys**  
+Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey, Benedict Bahr-Kalus, José Fonseca, Marina Migliaccio, David Parkinson, Cora Uhlemann
+[arXiv:2607.11254](https://arxiv.org/abs/2607.11254), *Advancing Astrophysics with the SKA II (AASKAII)*, 2026
 
 - **July 2026** — **Beyond ΛCDM with the SKA Observatory — II: Unveiling the Secrets of the Early Universe**  
   José Fonseca, Benedict Bahr-Kalus, Mario Ballardini, Matilde Barberi-Squarotti, Steven Cunnington, Sêcloka L. Guedezounme, Dionysios Karagiannis, Samantha J. Rossiter, Ziad Sakr, Cora Uhlemann, Stefano Camera, Bikash R. Dinda, Cláudio Gomes, Roy Maartens, Mário G. Santos  
