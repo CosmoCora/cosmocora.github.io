@@ -9,9 +9,12 @@ You can find my publication history on different platforms:
 
 **Total:** 46 peer-reviewed research articles, 14 of which first & corresponding author, 1 single author, <u>13 led by PhD students and postdocs</u>, all independent of PhD supervisor, 6 science white papers for Astro2020 Decadal Survey, EUCAPT, CosmoVerse, 5 chapters for *Advancing Astrophysics with the SKA II*.
 
-*Underlined names below indicate PhD students and postdocs.*
+*Underlined names below indicate supervised PhD students and postdocs.*
 
 ## 2026
+- **November 2026** — **SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear **  
+David Gebauer, Anik Halder, Zhengyangguang Gong, Cora Uhlemann
+[arXiv:2611.05367](https://arxiv.org/abs/2611.05367)
 
 - **July 2026** — **Beyond ΛCDM with the SKA Observatory — II: Unveiling the Secrets of the Early Universe**  
   José Fonseca, Benedict Bahr-Kalus, Mario Ballardini, Matilde Barberi-Squarotti, Steven Cunnington, Sêcloka L. Guedezounme, Dionysios Karagiannis, Samantha J. Rossiter, Ziad Sakr, Cora Uhlemann, Stefano Camera, Bikash R. Dinda, Cláudio Gomes, Roy Maartens, Mário G. Santos  
@@ -39,11 +42,11 @@ You can find my publication history on different platforms:
 
 - **May 2026** — **Euclid preparation. Baryon acoustic oscillations extraction techniques: comparison and optimisation**  
   Euclid Collaboration, E. Sarpa et al. (incl. C. Uhlemann)  
-  [arXiv:2605.03446](https://arxiv.org/abs/2605.03446)
+  [arXiv:2605.03446](https://arxiv.org/abs/2605.03446), A&A 715, A98 (2026)
 
-- **May 2026** — **CosmoPostProcess: A simulation calibrated framework for weak lensing selection bias in richness-selected galaxy clusters**  
+- **May 2026** — **Euclid preparation. CosmoPostProcess: A simulation calibrated framework for weak lensing selection bias in richness-selected galaxy clusters** 
   Euclid Collaboration, R. Ingrao et al. (incl. C. Uhlemann)  
-  [arXiv:2605.02723](https://arxiv.org/abs/2605.02723)
+  [arXiv:2605.02723](https://arxiv.org/abs/2605.02723), A&A 713, A256 (2026)
 
 - **May 2026** — **Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**  
   J. Mena-Fernández, C. Doux, J. Harnois-Déraps, K. Heitmann, C. Combet, P. Larsen, N. Frontiere, A. Bera, <u>S. Samario-Nava</u>, <u>L. Castiblanco</u>, C. Uhlemann, the LSST Dark Energy Science Collaboration  
@@ -55,7 +58,7 @@ You can find my publication history on different platforms:
 
 - **April 2026** — **Euclid. Populating a dark universe with galaxies using SciPIC**  
   Euclid Collaboration, E. J. Gonzalez et al. (incl. C. Uhlemann)  
-  [arXiv:2604.14802](https://arxiv.org/abs/2604.14802), accepted in *A&A*
+  [arXiv:2604.14802](https://arxiv.org/abs/2604.14802), A&A 712, A90 (2026)
 
 ## 2025
 
