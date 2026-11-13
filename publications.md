@@ -12,7 +12,7 @@ You can find my publication history on different platforms:
 *Underlined names below indicate supervised PhD students and postdocs.*
 
 ## 2026
-- **November 2026** — **SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear **  
+- **November 2026** — **SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear**  
 David Gebauer, Anik Halder, Zhengyangguang Gong, Cora Uhlemann
 [arXiv:2611.05367](https://arxiv.org/abs/2611.05367)
 
