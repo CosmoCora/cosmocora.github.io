@@ -13,7 +13,7 @@ Lectures given at the Les Houches Summer School “The Dark Universe” July-Aug
 - From 2026: Introductory module *Mathematical methods for physics* (`Integrierter Vorkurs`)
 - 2024-206: *General Relativity* for Master students in Physics and Mathematics
 
-### Courses at Newcastle University (2020-2024)
+### Courses at Newcastle University (2020-2023)
 
 - Semester 1: [General Relativity](https://www.ncl.ac.uk/module-catalogue/module.php?code=MAS8811) for Stage 4 Mathematics & Physics students [remotely & in person]
 - Semester 2: [Dynamics](https://www.ncl.ac.uk/module-catalogue/module.php?code=MAS1902) for Stage 1 Mathematics & Physics students [remotely & in person]
