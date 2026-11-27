@@ -12,16 +12,16 @@ You can find my publication history on different platforms:
 *Underlined names below indicate supervised PhD students and postdocs.*
 
 ## 2026
-- **November 2026** — **SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear**
-<u>David Gebauer</u>, Anik Halder, Zhengyangguang Gong, Cora Uhlemann
+- **November 2026** — **SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear**\
+<u>David Gebauer</u>, Anik Halder, Zhengyangguang Gong, Cora Uhlemann\
 [arXiv:2611.05367](https://arxiv.org/abs/2611.05367)
 
-- **July 2026** — **Cosmology from Nx2pt Analyses of SKAO Wide-Area Surveys**
-Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey, Benedict Bahr-Kalus, José Fonseca, Marina Migliaccio, David Parkinson, Cora Uhlemann
+- **July 2026** — **Cosmology from Nx2pt Analyses of SKAO Wide-Area Surveys**\
+Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey, Benedict Bahr-Kalus, José Fonseca, Marina Migliaccio, David Parkinson, Cora Uhlemann\
 *Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2607.11254](https://arxiv.org/abs/2607.11254) 
 
-- **July 2026** — **Beyond ΛCDM with the SKA Observatory — II: Unveiling the Secrets of the Early Universe**  
-José Fonseca, Benedict Bahr-Kalus, Mario Ballardini, Matilde Barberi-Squarotti, Steven Cunnington, Sêcloka L. Guedezounme, Dionysios Karagiannis, Samantha J. Rossiter, Ziad Sakr, Cora Uhlemann, Stefano Camera, Bikash R. Dinda, Cláudio Gomes, Roy Maartens, Mário G. Santos
+- **July 2026** — **Beyond ΛCDM with the SKA Observatory — II: Unveiling the Secrets of the Early Universe**\  
+José Fonseca, Benedict Bahr-Kalus, Mario Ballardini, Matilde Barberi-Squarotti, Steven Cunnington, Sêcloka L. Guedezounme, Dionysios Karagiannis, Samantha J. Rossiter, Ziad Sakr, Cora Uhlemann, Stefano Camera, Bikash R. Dinda, Cláudio Gomes, Roy Maartens, Mário G. Santos\
 *Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2607.08593](https://arxiv.org/abs/2607.08593)
 
 - **July 2026** — **One with HI: Modelling HI Intensity Mapping one-point statistics including systematics**  
