@@ -18,11 +18,11 @@ David Gebauer, Anik Halder, Zhengyangguang Gong, Cora Uhlemann
 
 - **July 2026** — **Cosmology from Nx2pt Analyses of SKAO Wide-Area Surveys**  
 Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey, Benedict Bahr-Kalus, José Fonseca, Marina Migliaccio, David Parkinson, Cora Uhlemann
-[arXiv:2607.11254](https://arxiv.org/abs/2607.11254), *Advancing Astrophysics with the SKA II (AASKAII)*, 2026
+*Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2607.11254](https://arxiv.org/abs/2607.11254) 
 
 - **July 2026** — **Beyond ΛCDM with the SKA Observatory — II: Unveiling the Secrets of the Early Universe**  
   José Fonseca, Benedict Bahr-Kalus, Mario Ballardini, Matilde Barberi-Squarotti, Steven Cunnington, Sêcloka L. Guedezounme, Dionysios Karagiannis, Samantha J. Rossiter, Ziad Sakr, Cora Uhlemann, Stefano Camera, Bikash R. Dinda, Cláudio Gomes, Roy Maartens, Mário G. Santos  
-  [arXiv:2607.08593](https://arxiv.org/abs/2607.08593), *Advancing Astrophysics with the SKA II (AASKAII)*, 2026
+   *Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2607.08593](https://arxiv.org/abs/2607.08593)
 
 - **July 2026** — **One with HI: Modelling HI Intensity Mapping one-point statistics including systematics**  
   <u>Bernhard Vos-Gines</u>, Cora Uhlemann  
@@ -30,19 +30,19 @@ Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey
 
 - **July 2026** — **Cosmology with HI Intensity Mapping**  
   Laura Wolz, Gabriele Autieri, José Luis Bernal, Maria Berti, Philip Bull, Stefano Camera, Isabella P. Carucci, Zhaoting Chen, Steven Cunnington, José Fonseca, Keith Grainge, Jiakang Han, Wenkai Hu, Dionysios Karagiannis, Mario G. Santos, Marta Spinelli, Liantsoa F. Randrianjanahary, Cora Uhlemann, Matteo Viel, Bernhard Vos-Ginés, Jingying Wang  
-  [arXiv:2607.03259](https://arxiv.org/abs/2607.03259), *Advancing Astrophysics with the SKA II (AASKAII)*, 2026
+   *Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2607.03259](https://arxiv.org/abs/2607.03259)
 
 - **June 2026** — **Cosmology with Intensity Mapping via Statistics Beyond the Power Spectrum in the SKAO Era**  
   Suman Majumdar, Debanjan Sarkar, Leon Noble, Manas Mohit Dosibhatla, Zhaoting Chen, <u>Bernhard Vos-Ginés</u>, Vishrut Pandya, Mohd Kamran, Sourav Pal, Chandra Shekhar Murmu, Cora Uhlemann, Pauline Gorbatchev, Jean-Luc Starck, José Luis Bernal, Marta Spinelli, Caroline S. Heneka, Matteo Viel, Gabriella De Lucia, Fabio Fontanot, Stefano Camera, Steve Cunnington, Benedetta Spina, Dionysis Karagiannis, Samit Kumar Pal, Anshuman Tripathi, Sarah Libanore, Abinash Kumar Shaw, Rajesh Mondal, Yashrajsinh Mahida, Yashar Akrami, Philip Bull, Chris Clarkson, Abhirup Datta, José Fonseca, Yin-Zhe Ma, Roy Maartens, Liantsoa F. Randrianjanahary, Martin Sahlen, Xin Wang, Yougang Wang, Jochen Weller  
-  [arXiv:2606.30200](https://arxiv.org/abs/2606.30200), *Advancing Astrophysics with the SKA II (AASKAII)*, 2026
+   *Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2606.30200](https://arxiv.org/abs/2606.30200)
 
 - **June 2026** — **Probing the Fundamental Nature of Particle Dark Matter**  
   Marco Regis, Aritra Basu, Geoff Beck, Gianni Bernardi, Paolo Marchegiani, Dominik J. Schwarz, Marco Taoso, Elisa Todarello, Emma Tolley, Cora Uhlemann  
-  [arXiv:2606.25537](https://arxiv.org/abs/2606.25537), *Advancing Astrophysics with the SKA II (AASKAII)*, 2026
+   *Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2606.25537](https://arxiv.org/abs/2606.25537)
 
 - **June 2026** — **Weak Lensing with SKAO: Cosmic Shear Cosmology**  
   Ian Harrison, Roberto Ingrao, Stefano Camera, Catherine Cress, Mamta Pandey-Pommier, Ziad Sakr, Cora Uhlemann  
-  [arXiv:2606.25583](https://arxiv.org/abs/2606.25583), *Advancing Astrophysics with the SKA II (AASKAII)*, 2026
+   *Advancing Astrophysics with the SKA II (AASKAII)*, 2026, [arXiv:2606.25583](https://arxiv.org/abs/2606.25583)
 
 - **May 2026** — **Euclid preparation. Baryon acoustic oscillations extraction techniques: comparison and optimisation**  
   Euclid Collaboration, E. Sarpa et al. (incl. C. Uhlemann)  
@@ -50,11 +50,11 @@ Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey
 
 - **May 2026** — **Euclid preparation. CosmoPostProcess: A simulation calibrated framework for weak lensing selection bias in richness-selected galaxy clusters** 
   Euclid Collaboration, R. Ingrao et al. (incl. C. Uhlemann)  
-  [arXiv:2605.02723](https://arxiv.org/abs/2605.02723), A&A 713, A256 (2026)
+  A&A 713, A256 (2026), [arXiv:2605.02723](https://arxiv.org/abs/2605.02723) 
 
 - **May 2026** — **Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**  
   J. Mena-Fernández, C. Doux, J. Harnois-Déraps, K. Heitmann, C. Combet, P. Larsen, N. Frontiere, A. Bera, <u>S. Samario-Nava</u>, <u>L. Castiblanco</u>, C. Uhlemann, the LSST Dark Energy Science Collaboration  
-  [arXiv:2605.00821](https://arxiv.org/abs/2605.00821)
+  *JCAP* accepted, [arXiv:2605.00821](https://arxiv.org/abs/2605.00821)
 
 - **April 2026** — **Euclid preparation. Refining input galaxy shape distributions for shear calibration simulation**  
   Euclid Collaboration, H. Jansen et al. (incl. C. Uhlemann)  
@@ -62,25 +62,25 @@ Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey
 
 - **April 2026** — **Euclid. Populating a dark universe with galaxies using SciPIC**  
   Euclid Collaboration, E. J. Gonzalez et al. (incl. C. Uhlemann)  
-  [arXiv:2604.14802](https://arxiv.org/abs/2604.14802), A&A 712, A90 (2026)
+  A&A 712, A90 (2026), [arXiv:2604.14802](https://arxiv.org/abs/2604.14802) 
 
 ## 2025
 
 - **October 2025** — **Euclid preparation: Towards a DR1 application of higher-order weak lensing statistics**  
   Euclid Collaboration: <u>S. Vinciguerra</u>, <u>F. Bouchè</u>, N. Martinet, L. Castiblanco, C. Uhlemann et al.  
-  [arXiv:2510.04953](https://arxiv.org/abs/2510.04953), *A&A* **707** (A235), 2026
+  *A&A* **707** (A235), 2026, [arXiv:2510.04953](https://arxiv.org/abs/2510.04953)
 
 - **September 2025** — **Non-linear infusion of intrinsic alignment and source clustering: impact on non-Gaussian cosmic shear statistics**  
   J. Harnois-Déraps, N. Šarčević, L. Medina Varela, J. Armijo, C. T. Davies, N. van Alfen, J. Blazek, L. Castiblanco, A. Halder, K. Heitmann, P. Larsen, L. Linke, J. Liu, C. MacMahon-Gellér, L. Porth, S. Rangel, C. Uhlemann, the LSST Dark Energy Science Collaboration  
-  [arXiv:2509.25166](https://arxiv.org/abs/2509.25166), accepted in *MNRAS*
+  *MNRAS*  in press, [arXiv:2509.25166](https://arxiv.org/abs/2509.25166)
 
 - **September 2025** — **Taking the Weight Off: Mitigating Parameter Bias from Catastrophic Outliers in 3x2pt analysis**  
   <u>Carolyn McDonald Mill</u>, C. Danielle Leonard, Markus Michael Rau, Cora Uhlemann, Shahab Joudaki  
-  [arXiv:2509.08052](https://arxiv.org/abs/2509.08052), *JCAP* **12** (2025) 037
+  *JCAP* **12** (2025) 037, [arXiv:2509.08052](https://arxiv.org/abs/2509.08052)
 
 - **July 2025** — **Bye binormal: analysing the joint PDF of galaxy density and weak lensing convergence**  
   Oliver Friedrich, <u>Lina Castiblanco</u>, Anik Halder, Cora Uhlemann  
-  [arXiv:2507.16957](https://arxiv.org/abs/2507.16957), *MNRAS* **545** (4), 2026
+  *MNRAS* **545** (4), 2026, [arXiv:2507.16957](https://arxiv.org/abs/2507.16957) 
 
 - **April 2025** — **The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics**  
   The CosmoVerse Network, Editors: Eleonora Di Valentino & Jackson Levi Said  
