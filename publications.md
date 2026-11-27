@@ -14,7 +14,7 @@ You can find my publication history on different platforms:
 ## 2026
 - **November 2026** — **SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear**\
 <u>David Gebauer</u>, Anik Halder, Zhengyangguang Gong, Cora Uhlemann\
-[arXiv:2611.05367](https://arxiv.org/abs/2611.05367)
+[arXiv:2611.05367](https://arxiv.org/abs/2611.05367), submitted to *JCAP*
 
 - **July 2026** — **Cosmology from Nx2pt Analyses of SKAO Wide-Area Surveys**\
 Ian Harrison, Ziad Sakr, Giulia Piccirilli, Chandra Shekhar Saraf, Jacobo Asorey, Benedict Bahr-Kalus, José Fonseca, Marina Migliaccio, David Parkinson, Cora Uhlemann\
